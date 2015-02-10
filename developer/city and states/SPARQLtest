@@ -1,0 +1,153 @@
+http://dbpedia.org/sparql
+
+1. Search all the cities in Michigan
+
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city rdf:type <http://dbpedia.org/class/yago/CitiesInMichigan> .
+}
+
+
+2. search all the cities, county, and state in US
+
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city dbpedia-owl:isPartOf ?county .
+?city dbpedia-owl:isPartOf ?state .
+?county rdf:type yago:County108546183 .
+?state rdf:type yago:StatesOfTheUnitedStates .
+}
+
+3. Search city, county, postalcode in Michigan
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city rdf:type <http://dbpedia.org/class/yago/CitiesInMichigan> .
+?city dbpedia-owl:isPartOf ?county .
+?city dbpedia-owl:isPartOf ?state .
+?county rdf:type yago:County108546183 .
+?city dbpedia-owl:postalCode ?postalCode .
+}
+
+
+4. seaarch the city, county, state and postal code in US
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city dbpedia-owl:isPartOf ?county .
+?city dbpedia-owl:isPartOf ?state .
+?county rdf:type yago:County108546183 .
+?state rdf:type yago:StatesOfTheUnitedStates .
+?city dbpedia-owl:postalCode ?postalCode .
+}
+
+
+
+5. search for  Detroit rdf:type http://dbpedia.org/class/yago/Municipality108626283
+
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city dbpedia-owl:isPartOf ?county .
+?city dbpedia-owl:isPartOf ?state .
+?city rdf:type ?type .
+?county rdf:type yago:County108546183 .
+?state rdf:type yago:StatesOfTheUnitedStates .
+?city dbpedia-owl:postalCode ?postalCode .
+FILTER ( regex(?type, "Municipality108626283")) .
+}
+
+
+6. search for bigest city search for bigcities Detroit   is dbpedia-owl:largestCity of	dbpedia:Michigan
+
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city dbpedia-owl:isPartOf ?state .
+?state rdf:type yago:StatesOfTheUnitedStates .
+?state dbpedia-owl:largestCity ?city .
+}
+
+7. search for county, state in US
+SELECT DISTINCT *
+WHERE {
+?county rdf:type yago:County108546183 .
+?county dbpedia-owl:state ?state .
+?state rdf:type yago:StatesOfTheUnitedStates .
+}
+
+
+8.
+ seaarch the city, county, state and postal code in a state
+SELECT DISTINCT *
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city dbpedia-owl:isPartOf ?county .
+?city dbpedia-owl:isPartOf ?state .
+?county rdf:type yago:County108546183 .
+?state rdf:type yago:StatesOfTheUnitedStates .
+?city dbpedia-owl:postalCode ?postalCode .
+Filter (regex(?state, "Alaska", "i")) .
+}
+
+9. How many predictes are there between a city and a state
+
+10. How may predicates from city to county
+SELECT DISTINCT ?p
+WHERE {
+?city dbpedia-owl:type	dbpedia:City.
+?city ?p ?county .
+?county rdf:type yago:County108546183 . 
+}
+
+ p
+http://dbpedia.org/property/subdivisionName
+http://dbpedia.org/ontology/isPartOf
+http://dbpedia.org/property/subdivisionType
+http://dbpedia.org/ontology/part
+http://dbpedia.org/property/p
+http://dbpedia.org/property/west
+http://dbpedia.org/property/east
+http://dbpedia.org/property/south
+http://dbpedia.org/property/north
+http://dbpedia.org/property/southeast
+http://dbpedia.org/property/northeast
+http://dbpedia.org/property/northwest
+http://dbpedia.org/property/region
+http://dbpedia.org/ontology/region
+http://dbpedia.org/property/county
+http://dbpedia.org/property/mapCaption
+http://dbpedia.org/property/southwest
+http://dbpedia.org/property/subdIvisionName
+http://dbpedia.org/ontology/governmentType
+http://dbpedia.org/property/twin
+http://dbpedia.org/ontology/twinCity
+http://dbpedia.org/ontology/country
+
+From county to city
+
+p
+http://dbpedia.org/ontology/capital
+http://dbpedia.org/property/seat
+http://dbpedia.org/ontology/countySeat
+http://dbpedia.org/ontology/largestCity
+http://dbpedia.org/property/twin
+http://dbpedia.org/ontology/twinCity
+http://dbpedia.org/property/hq
+http://dbpedia.org/property/east
+http://dbpedia.org/property/south
+http://dbpedia.org/property/southeast
+http://dbpedia.org/property/north
+http://dbpedia.org/property/adminhq
+http://dbpedia.org/property/adminHq
+http://dbpedia.org/property/parts
+http://dbpedia.org/property/namedFor
+http://dbpedia.org/property/exImageCap
+http://dbpedia.org/property/largestCity
+http://dbpedia.org/property/label
+http://dbpedia.org/property/southwest
+http://dbpedia.org/ontology/timeZone
+http://dbpedia.org/property/capital
+http://dbpedia.org/property/replace

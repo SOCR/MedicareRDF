@@ -1,0 +1,18 @@
+test 603, when zip code column is empty.  Done!
+test 1802, see the combination of - and ,  Done!
+
+Extract county and state from DBpedia, implement into ontology.  Done
+Check the consistancy. can we do it through sparql query?
+
+Missing states and counties from the SPARQL query of 4.
+TODO: Missing States: Alaska, Delaware, Louisiana, Maryland, New_Jersey, New_York, Rhode_Island, Virginia. Check if specify state name, will the information retrieved by SPARQL (using SPAQRL 3.).
+TODO: Missing counties. 
+     1) add the county type and state type in county_state file.
+	 2) check the city_county triples from DBpedia, see if any info missing.
+	 3) check the city_zipcode triples from DBpedia, see if any zipcode infor missing.
+	 4) consider to get more authentic city zip code data if there is any.
+
+
+
+
+Changed the city_county_transfer.py, because the DBpedia SPARQL reveal the relation of cities only. Previous mistake is assert county_state statement. Changed to city_state statement. Added county_state statement extracted from DBpedia.

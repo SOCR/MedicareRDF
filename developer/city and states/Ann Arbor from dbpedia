@@ -1,0 +1,106 @@
+Ann Arbor, Michigan (http://dbpedia.org/resource/Ann_Arbor,_Michigan)
+
+subdivision name 	
+
+    Michigan
+    Washtenaw County, Michigan
+    United States
+
+is part of 	
+
+    Michigan
+    Washtenaw County, Michigan
+	
+is city of	
+
+    University of Michigan Health System
+    University of Michigan College of Engineering
+    University of Michigan
+    Ann Arbor Public Schools
+    The Miracle at Michigan
+    1973 Ohio State vs. Michigan football game
+    List of American football stadiums by capacity
+    Summers-Knoll School
+    2014 NHL Winter Classic
+    Kresge Hearing Research Institute
+    Ross School of Business
+    University of Michigan College of Literature, Science, and the Arts
+    Delta Kappa Epsilon
+    Huron High School (Ann Arbor, Michigan)
+    Pioneer High School (Ann Arbor, Michigan)
+    University of Michigan School of Music, Theatre & Dance
+    National Register of Historic Places listings in Washtenaw County, Michigan
+    Clonlara School
+    University of Michigan School of Education
+    Kappa Theta Pi
+    Thurston Elementary School
+    The Big Chill at the Big House
+    WWWW-FM
+    WCBN-FM
+    The Ten Year War
+    USA Hockey National Team Development Program
+    Greenhills School
+    University of Michigan Law School
+    Concordia University (Michigan)
+    United States 2022 FIFA World Cup bid
+    1969 Ohio State vs. Michigan football game
+    WAAM
+    University of Michigan School of Social Work
+    Ross Medical Education Center
+    University of Michigan School of Natural Resources and Environment
+    WJJX (defunct)
+    Father Gabriel Richard High School (Ann Arbor, Michigan)
+    Gerald R. Ford School of Public Policy
+    WQKL
+    University of Michigan School of Information
+    University of Michigan School of Kinesiology
+    2007 Appalachian State vs. Michigan football game
+    Delta Tau Lambda
+    University of Michigan School of Public Health
+    WTKA
+    WUOM
+    University of Michigan College of Pharmacy
+    Ann Arbor Open School
+    University of Michigan School of Dentistry
+	
+	
+
+SELECT DISTINCT *
+WHERE {
+{
+?song rdf:type <http://dbpedia.org/ontology/Single>; .
+?song rdfs:label ?songTitle .
+OPTIONAL {?song dbpedia-owl:genre ?genre} .
+OPTIONAL {?song dbpedia2:genre ?genre} .
+OPTIONAL {?song dbpedia-owl:releaseDate ?releaseDate} .
+FILTER ( regex(?songTitle, "Fallen Soldier", "i") ) .
+FILTER (LANG(?songTitle) = 'en') .
+}
+UNION {
+?song rdf:type <http://dbpedia.org/ontology/MusicalWork>; .
+?song rdfs:label ?songTitle .
+OPTIONAL {?song dbpedia-owl:genre ?genre} .
+OPTIONAL {?song dbpedia2:genre ?genre} .
+OPTIONAL {?song dbpedia-owl:releaseDate ?releaseDate} .
+FILTER ( regex(?songTitle, "Fallen Soldier", "i") ) .// FILTER ( bif:contains( ?songTitle, 'Fallen and Soldier')) .
+FILTER (LANG(?songTitle) = 'en') .
+}
+UNION {
+?song rdf:type <http://dbpedia.org/ontology/Work>; .
+?song rdfs:label ?songTitle .
+OPTIONAL {?song dbpedia-owl:genre ?genre} .
+OPTIONAL {?song dbpedia2:genre ?genre} .
+OPTIONAL {?song dbpedia-owl:releaseDate ?releaseDate} .
+FILTER ( regex(?songTitle, "Fallen Soldier", "i") ) .
+FILTER (LANG(?songTitle) = 'en') .
+}
+UNION {
+?song rdf:type <http://umbel.org/umbel/rc/MusicalComposition>; .
+?song rdfs:label ?songTitle .
+OPTIONAL {?song dbpedia-owl:genre ?genre} .
+OPTIONAL {?song dbpedia2:genre ?genre} .
+OPTIONAL {?song dbpedia-owl:releaseDate ?releaseDate} .
+FILTER ( regex(?songTitle, "Fallen Soldier", "i") ) .
+FILTER (LANG(?songTitle) = 'en') .
+}
+} LIMIT 1

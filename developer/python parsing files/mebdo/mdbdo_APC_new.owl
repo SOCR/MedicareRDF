@@ -1,0 +1,3330 @@
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720001 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720001">
+        <rdfs:label xml:lang="en">Level I Photochemotherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0001</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720002 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720002">
+        <rdfs:label xml:lang="en">Fine Needle Biopsy/Aspiration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0002</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720003 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720003">
+        <rdfs:label xml:lang="en">Bone Marrow Biopsy/Aspiration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0003</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720004 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720004">
+        <rdfs:label xml:lang="en">Level I Needle Biopsy/ Aspiration Except Bone Marrow</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0004</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720005 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720005">
+        <rdfs:label xml:lang="en">Level II Needle Biopsy/Aspiration Except Bone Marrow</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0005</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720006 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720006">
+        <rdfs:label xml:lang="en">Level I Incision &amp; Drainage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0006</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720007 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720007">
+        <rdfs:label xml:lang="en">Level II Incision &amp; Drainage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0007</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720008 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720008">
+        <rdfs:label xml:lang="en">Level III Incision and Drainage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0008</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720012 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720012">
+        <rdfs:label xml:lang="en">Level I Debridement &amp; Destruction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0012</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720013 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720013">
+        <rdfs:label xml:lang="en">Level II Debridement &amp; Destruction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0013</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720015 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720015">
+        <rdfs:label xml:lang="en">Level III Debridement &amp; Destruction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0015</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720016 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720016">
+        <rdfs:label xml:lang="en">Level IV Debridement &amp; Destruction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0016</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720017 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720017">
+        <rdfs:label xml:lang="en">Level V Debridement &amp; Destruction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0017</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720019 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720019">
+        <rdfs:label xml:lang="en">Level I Excision/ Biopsy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0019</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720020 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720020">
+        <rdfs:label xml:lang="en">Level II Excision/ Biopsy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0020</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720021 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720021">
+        <rdfs:label xml:lang="en">Level III Excision/ Biopsy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0021</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720022 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720022">
+        <rdfs:label xml:lang="en">Level IV Excision/ Biopsy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0022</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720028 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720028">
+        <rdfs:label xml:lang="en">Level I Breast Surgery</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0028</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720029 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720029">
+        <rdfs:label xml:lang="en">Level II Breast Surgery</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0029</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720030 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720030">
+        <rdfs:label xml:lang="en">Level III Breast Surgery</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0030</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720031 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720031">
+        <rdfs:label xml:lang="en">Level I Health and Behavior Services</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0031</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720035 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720035">
+        <rdfs:label xml:lang="en">Vascular Puncture and Minor Diagnostic Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0035</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720037 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720037">
+        <rdfs:label xml:lang="en">Level IV Needle Biopsy/Aspiration Except Bone Marrow</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0037</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720039 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720039">
+        <rdfs:label xml:lang="en">Level I Implantation of Neurostimulator Generator</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0039</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720040 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720040">
+        <rdfs:label xml:lang="en">Level I Implantation/Revision/Replacement of Neurostimulator Electrodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0040</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720041 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720041">
+        <rdfs:label xml:lang="en">Level I Arthroscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0041</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720042 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720042">
+        <rdfs:label xml:lang="en">Level II Arthroscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0042</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720045 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720045">
+        <rdfs:label xml:lang="en">Bone/Joint Manipulation Under Anesthesia</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0045</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720047 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720047">
+        <rdfs:label xml:lang="en">Arthroplasty without Prosthesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0047</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720048 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720048">
+        <rdfs:label xml:lang="en">Level I Arthroplasty or Implantation with Prosthesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0048</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720049 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720049">
+        <rdfs:label xml:lang="en">Level I Musculoskeletal Procedures Except Hand and Foot</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0049</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720050 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720050">
+        <rdfs:label xml:lang="en">Level II Musculoskeletal Procedures Except Hand and Foot</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0050</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720051 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720051">
+        <rdfs:label xml:lang="en">Level III Musculoskeletal Procedures Except Hand and Foot</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0051</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720052 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720052">
+        <rdfs:label xml:lang="en">Level IV Musculoskeletal Procedures Except Hand and Foot</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0052</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720053 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720053">
+        <rdfs:label xml:lang="en">Level I Hand Musculoskeletal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0053</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720054 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720054">
+        <rdfs:label xml:lang="en">Level II Hand Musculoskeletal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0054</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720055 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720055">
+        <rdfs:label xml:lang="en">Level I Foot Musculoskeletal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0055</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720056 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720056">
+        <rdfs:label xml:lang="en">Level II Foot Musculoskeletal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0056</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720057 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720057">
+        <rdfs:label xml:lang="en">Bunion Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0057</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720058 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720058">
+        <rdfs:label xml:lang="en">Level I Cast Application</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0058</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720059 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720059">
+        <rdfs:label xml:lang="en">Level I Strapping</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0059</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720060 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720060">
+        <rdfs:label xml:lang="en">Manipulation Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0060</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720061 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720061">
+        <rdfs:label xml:lang="en">Level II Implantation/Revision/Replacement of Neurostimulator Electrodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0061</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720062 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720062">
+        <rdfs:label xml:lang="en">Level I Treatment Fracture/Dislocation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0062</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720063 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720063">
+        <rdfs:label xml:lang="en">Level II Treatment Fracture/Dislocation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0063</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720064 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720064">
+        <rdfs:label xml:lang="en">Level III Treatment Fracture/Dislocation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0064</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720065 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720065">
+        <rdfs:label xml:lang="en">Level I Stereotactic Radiosurgery, MRgFUS, and MEG</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0065</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720066 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720066">
+        <rdfs:label xml:lang="en">Level II Stereotactic Radiosurgery, MRgFUS, and MEG</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0066</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720067 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720067">
+        <rdfs:label xml:lang="en">Level III Stereotactic Radiosurgery, MRgFUS, and MEG</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0067</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720069 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720069">
+        <rdfs:label xml:lang="en">Thoracoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0069</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720070 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720070">
+        <rdfs:label xml:lang="en">Thoracentesis/Lavage Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0070</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720071 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720071">
+        <rdfs:label xml:lang="en">Level I Endoscopy Upper Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0071</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720072 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720072">
+        <rdfs:label xml:lang="en">Level II Endoscopy Upper Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0072</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720073 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720073">
+        <rdfs:label xml:lang="en">Level III Endoscopy Upper Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0073</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720074 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720074">
+        <rdfs:label xml:lang="en">Level IV Endoscopy Upper Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0074</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720075 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720075">
+        <rdfs:label xml:lang="en">Level V Endoscopy Upper Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0075</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720076 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720076">
+        <rdfs:label xml:lang="en">Level I Endoscopy Lower Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0076</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720077 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720077">
+        <rdfs:label xml:lang="en">Level I Pulmonary Treatment</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0077</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720078 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720078">
+        <rdfs:label xml:lang="en">Level III Pulmonary Treatment</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0078</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720079 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720079">
+        <rdfs:label xml:lang="en">Ventilation Initiation and Management</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0079</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720080 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720080">
+        <rdfs:label xml:lang="en">Diagnostic Cardiac Catheterization</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0080</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720082 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720082">
+        <rdfs:label xml:lang="en">Coronary or Non-Coronary Atherectomy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0082</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720083 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720083">
+        <rdfs:label xml:lang="en">Coronary Angioplasty, Valvuloplasty, and Level I Endovascular Revascularization</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0083</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720084 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720084">
+        <rdfs:label xml:lang="en">Level I Electrophysiologic Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0084</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720085 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720085">
+        <rdfs:label xml:lang="en">Level II Electrophysiologic Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0085</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720086 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720086">
+        <rdfs:label xml:lang="en">Level III Electrophysiologic Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0086</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720088 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720088">
+        <rdfs:label xml:lang="en">Thrombectomy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0088</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720089 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720089">
+        <rdfs:label xml:lang="en">Insertion/Replacement of Permanent Pacemaker and Electrodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0089</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720090 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720090">
+        <rdfs:label xml:lang="en">Level I Insertion/Replacement of Permanent Pacemaker</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0090</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720091 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720091">
+        <rdfs:label xml:lang="en">Level II Vascular Ligation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0091</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720092 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720092">
+        <rdfs:label xml:lang="en">Level I Vascular Ligation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0092</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720093 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720093">
+        <rdfs:label xml:lang="en">Vascular Reconstruction/Fistula Repair without Device</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0093</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720094 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720094">
+        <rdfs:label xml:lang="en">Level I Resuscitation and Cardioversion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0094</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720095 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720095">
+        <rdfs:label xml:lang="en">Cardiac Rehabilitation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0095</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720096 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720096">
+        <rdfs:label xml:lang="en">Level II Noninvasive Physiologic Studies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0096</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720097 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720097">
+        <rdfs:label xml:lang="en">Level I Noninvasive Physiologic Studies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0097</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720099 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720099">
+        <rdfs:label xml:lang="en">Electrocardiograms/Cardiography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0099</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720100 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720100">
+        <rdfs:label xml:lang="en">Cardiac Stress Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0100</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720101 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720101">
+        <rdfs:label xml:lang="en">Tilt Table Evaluation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0101</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720102 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720102">
+        <rdfs:label xml:lang="en">Level II Pulmonary Treatment</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0102</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720103 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720103">
+        <rdfs:label xml:lang="en">Miscellaneous Vascular Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0103</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720104 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720104">
+        <rdfs:label xml:lang="en">Transcatheter Placement of Intracoronary Stents</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0104</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720105 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720105">
+        <rdfs:label xml:lang="en">Repair/Revision/Removal of Pacemakers, AICDs, or Vascular Devices</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0105</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720106 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720106">
+        <rdfs:label xml:lang="en">Insertion/Replacement of Pacemaker Leads and/or Electrodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0106</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720107 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720107">
+        <rdfs:label xml:lang="en">Level I Implantation of Cardioverter-Defibrillators (ICDs)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0107</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720108 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720108">
+        <rdfs:label xml:lang="en">Level II Implantation of Cardioverter-Defibrillators (ICDs)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0108</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720110 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720110">
+        <rdfs:label xml:lang="en">Transfusion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0110</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720111 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720111">
+        <rdfs:label xml:lang="en">Blood Product Exchange</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0111</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720112 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720112">
+        <rdfs:label xml:lang="en">Apheresis and Stem Cell Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0112</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720113 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720113">
+        <rdfs:label xml:lang="en">Excision Lymphatic System</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0113</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720114 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720114">
+        <rdfs:label xml:lang="en">Thyroid/Lymphadenectomy Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0114</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720115 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720115">
+        <rdfs:label xml:lang="en">Cannula/Access Device Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0115</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720121 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720121">
+        <rdfs:label xml:lang="en">Level I Tube or Catheter Changes or Repositioning</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0121</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720126 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720126">
+        <rdfs:label xml:lang="en">Level I Urinary and Anal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0126</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720127 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720127">
+        <rdfs:label xml:lang="en">Level IV Stereotactic Radiosurgery, MRgFUS, and MEG</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0127</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720129 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720129">
+        <rdfs:label xml:lang="en">Level I Closed Treatment Fracture</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0129</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720130 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720130">
+        <rdfs:label xml:lang="en">Level I Laparoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0130</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720131 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720131">
+        <rdfs:label xml:lang="en">Level II Laparoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0131</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720132 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720132">
+        <rdfs:label xml:lang="en">Level III Laparoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0132</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720133 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720133">
+        <rdfs:label xml:lang="en">Level I Skin Repair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0133</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720134 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720134">
+        <rdfs:label xml:lang="en">Level II Skin Repair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0134</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720135 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720135">
+        <rdfs:label xml:lang="en">Level III Skin Repair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0135</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720136 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720136">
+        <rdfs:label xml:lang="en">Level IV Skin Repair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0136</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720137 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720137">
+        <rdfs:label xml:lang="en">Level V Skin Repair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0137</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720138 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720138">
+        <rdfs:label xml:lang="en">Level II Closed Treatment Fracture</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0138</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720139 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720139">
+        <rdfs:label xml:lang="en">Level III Closed Treatment Fracture</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0139</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720140 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720140">
+        <rdfs:label xml:lang="en">Esophageal Dilation without Endoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0140</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720141 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720141">
+        <rdfs:label xml:lang="en">Level I Upper GI Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0141</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720142 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720142">
+        <rdfs:label xml:lang="en">Level I Small Intestine Endoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0142</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720143 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720143">
+        <rdfs:label xml:lang="en">Lower GI Endoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0143</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720146 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720146">
+        <rdfs:label xml:lang="en">Level I Sigmoidoscopy and Anoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0146</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720147 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720147">
+        <rdfs:label xml:lang="en">Level II Sigmoidoscopy and Anoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0147</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720148 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720148">
+        <rdfs:label xml:lang="en">Level I Anal/Rectal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0148</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720149 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720149">
+        <rdfs:label xml:lang="en">Level III Anal/Rectal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0149</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720150 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720150">
+        <rdfs:label xml:lang="en">Level IV Anal/Rectal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0150</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720151 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720151">
+        <rdfs:label xml:lang="en">Endoscopic Retrograde Cholangio-Pancreatography (ERCP)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0151</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720152 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720152">
+        <rdfs:label xml:lang="en">Level I Percutaneous Abdominal and Biliary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0152</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720153 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720153">
+        <rdfs:label xml:lang="en">Peritoneal and Abdominal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0153</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720154 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720154">
+        <rdfs:label xml:lang="en">Hernia/Hydrocele Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0154</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720155 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720155">
+        <rdfs:label xml:lang="en">Level II Anal/Rectal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0155</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720156 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720156">
+        <rdfs:label xml:lang="en">Level III Urinary and Anal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0156</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720157 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720157">
+        <rdfs:label xml:lang="en">Colorectal Cancer Screening: Barium Enema</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0157</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720158 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720158">
+        <rdfs:label xml:lang="en">Colorectal Cancer Screening: Colonoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0158</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720159 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720159">
+        <rdfs:label xml:lang="en">Colorectal Cancer Screening: Flexible Sigmoidoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0159</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720160 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720160">
+        <rdfs:label xml:lang="en">Level I Cystourethroscopy and other Genitourinary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0160</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720161 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720161">
+        <rdfs:label xml:lang="en">Level II Cystourethroscopy and other Genitourinary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0161</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720162 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720162">
+        <rdfs:label xml:lang="en">Level III Cystourethroscopy and other Genitourinary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0162</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720163 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720163">
+        <rdfs:label xml:lang="en">Level IV Cystourethroscopy and other Genitourinary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0163</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720164 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720164">
+        <rdfs:label xml:lang="en">Level II Urinary and Anal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0164</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720165 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720165">
+        <rdfs:label xml:lang="en">Level IV Urinary and Anal Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0165</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720166 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720166">
+        <rdfs:label xml:lang="en">Level I Urethral Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0166</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720168 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720168">
+        <rdfs:label xml:lang="en">Level II Urethral Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0168</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720169 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720169">
+        <rdfs:label xml:lang="en">Lithotripsy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0169</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720170 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720170">
+        <rdfs:label xml:lang="en">Dialysis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0170</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720174 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720174">
+        <rdfs:label xml:lang="en">Level IV Laparoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0174</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720177 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720177">
+        <rdfs:label xml:lang="en">Level I Echocardiogram with Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0177</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720178 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720178">
+        <rdfs:label xml:lang="en">Level II Echocardiogram with Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0178</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720181 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720181">
+        <rdfs:label xml:lang="en">Level II Male Genital Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0181</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720183 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720183">
+        <rdfs:label xml:lang="en">Level I Male Genital Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0183</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720184 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720184">
+        <rdfs:label xml:lang="en">Prostate Biopsy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0184</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720188 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720188">
+        <rdfs:label xml:lang="en">Level II Female Reproductive Proc</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0188</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720189 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720189">
+        <rdfs:label xml:lang="en">Level III Female Reproductive Proc</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0189</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720190 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720190">
+        <rdfs:label xml:lang="en">Level I Hysteroscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0190</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720191 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720191">
+        <rdfs:label xml:lang="en">Level I Female Reproductive Proc</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0191</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720192 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720192">
+        <rdfs:label xml:lang="en">Level IV Female Reproductive Proc</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0192</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720193 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720193">
+        <rdfs:label xml:lang="en">Level V Female Reproductive Proc</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0193</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720195 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720195">
+        <rdfs:label xml:lang="en">Level VI Female Reproductive Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0195</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720202 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720202">
+        <rdfs:label xml:lang="en">Level VII Female Reproductive Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0202</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720203 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720203">
+        <rdfs:label xml:lang="en">Level IV Nerve Injections</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0203</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720204 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720204">
+        <rdfs:label xml:lang="en">Level I Nerve Injections</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0204</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720206 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720206">
+        <rdfs:label xml:lang="en">Level II Nerve Injections</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0206</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720207 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720207">
+        <rdfs:label xml:lang="en">Level III Nerve Injections</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0207</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720208 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720208">
+        <rdfs:label xml:lang="en">Laminotomies and Laminectomies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0208</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720209 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720209">
+        <rdfs:label xml:lang="en">Level II Extended EEG, Sleep, and Cardiovascular Studies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0209</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720213 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720213">
+        <rdfs:label xml:lang="en">Level I Extended EEG, Sleep, and Cardiovascular Studies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0213</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720215 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720215">
+        <rdfs:label xml:lang="en">Level I Nerve and Muscle Services</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0215</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720216 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720216">
+        <rdfs:label xml:lang="en">Level III Nerve and Muscle Services</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0216</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720218 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720218">
+        <rdfs:label xml:lang="en">Level II Nerve and Muscle Services</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0218</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720220 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720220">
+        <rdfs:label xml:lang="en">Level I Nerve Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0220</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720221 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720221">
+        <rdfs:label xml:lang="en">Level II Nerve Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0221</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720224 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720224">
+        <rdfs:label xml:lang="en">Implantation of Catheter/Reservoir/Shunt</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0224</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720227 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720227">
+        <rdfs:label xml:lang="en">Implantation of Drug Infusion Device</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0227</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720229 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720229">
+        <rdfs:label xml:lang="en">Level II Endovascular Revascularization of the Lower Extremity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0229</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720230 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720230">
+        <rdfs:label xml:lang="en">Level I Eye Tests &amp; Treatments</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0230</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720231 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720231">
+        <rdfs:label xml:lang="en">Level III Eye Tests &amp; Treatments</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0231</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720232 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720232">
+        <rdfs:label xml:lang="en">Level I Anterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0232</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720233 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720233">
+        <rdfs:label xml:lang="en">Level III Anterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0233</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720234 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720234">
+        <rdfs:label xml:lang="en">Level IV Anterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0234</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720235 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720235">
+        <rdfs:label xml:lang="en">Level I Posterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0235</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720237 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720237">
+        <rdfs:label xml:lang="en">Level II Posterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0237</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720238 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720238">
+        <rdfs:label xml:lang="en">Level I Repair and Plastic Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0238</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720239 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720239">
+        <rdfs:label xml:lang="en">Level II Repair and Plastic Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0239</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720240 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720240">
+        <rdfs:label xml:lang="en">Level III Repair and Plastic Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0240</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720241 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720241">
+        <rdfs:label xml:lang="en">Level IV Repair and Plastic Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0241</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720242 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720242">
+        <rdfs:label xml:lang="en">Level V Repair and Plastic Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0242</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720243 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720243">
+        <rdfs:label xml:lang="en">Strabismus/Muscle Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0243</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720244 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720244">
+        <rdfs:label xml:lang="en">Corneal and Amniotic Membrane Transplant</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0244</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720246 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720246">
+        <rdfs:label xml:lang="en">Cataract Procedures with IOL Insert</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0246</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720247 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720247">
+        <rdfs:label xml:lang="en">Laser Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0247</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720249 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720249">
+        <rdfs:label xml:lang="en">Cataract Procedures without IOL Insert</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0249</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720250 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720250">
+        <rdfs:label xml:lang="en">Level I ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0250</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720251 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720251">
+        <rdfs:label xml:lang="en">Level II ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0251</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720252 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720252">
+        <rdfs:label xml:lang="en">Level III ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0252</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720253 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720253">
+        <rdfs:label xml:lang="en">Level IV ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0253</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720254 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720254">
+        <rdfs:label xml:lang="en">Level V ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0254</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720255 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720255">
+        <rdfs:label xml:lang="en">Level II Anterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0255</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720256 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720256">
+        <rdfs:label xml:lang="en">Level VI ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0256</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720259 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720259">
+        <rdfs:label xml:lang="en">Level VII ENT Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0259</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720260 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720260">
+        <rdfs:label xml:lang="en">Level I Plain Film Except Teeth</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0260</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720261 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720261">
+        <rdfs:label xml:lang="en">Level II Plain Film Except Teeth Including Bone Density Measurement</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0261</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720262 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720262">
+        <rdfs:label xml:lang="en">Plain Film of Teeth</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0262</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720263 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720263">
+        <rdfs:label xml:lang="en">Level I Miscellaneous Radiology Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0263</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720265 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720265">
+        <rdfs:label xml:lang="en">Level I Diagnostic and Screening Ultrasound</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0265</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720266 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720266">
+        <rdfs:label xml:lang="en">Level II Diagnostic and Screening Ultrasound</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0266</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720267 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720267">
+        <rdfs:label xml:lang="en">Level III Diagnostic and Screening Ultrasound</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0267</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720269 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720269">
+        <rdfs:label xml:lang="en">Level II Echocardiogram Without Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0269</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720270 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720270">
+        <rdfs:label xml:lang="en">Level III Echocardiogram Without Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0270</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720272 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720272">
+        <rdfs:label xml:lang="en">Fluoroscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0272</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720274 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720274">
+        <rdfs:label xml:lang="en">Myelography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0274</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720275 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720275">
+        <rdfs:label xml:lang="en">Arthrography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0275</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720276 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720276">
+        <rdfs:label xml:lang="en">Level I Digestive Radiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0276</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720277 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720277">
+        <rdfs:label xml:lang="en">Level II Digestive Radiology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0277</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720278 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720278">
+        <rdfs:label xml:lang="en">Diagnostic Urography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0278</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720279 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720279">
+        <rdfs:label xml:lang="en">Level II Angiography and Venography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0279</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720280 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720280">
+        <rdfs:label xml:lang="en">Level III Angiography and Venography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0280</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720282 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720282">
+        <rdfs:label xml:lang="en">Miscellaneous Computed Axial Tomography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0282</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720283 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720283">
+        <rdfs:label xml:lang="en">Computed Tomography with Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0283</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720284 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720284">
+        <rdfs:label xml:lang="en">Magnetic Resonance Imaging and Magnetic Resonance Angiography with Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0284</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720288 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720288">
+        <rdfs:label xml:lang="en">Bone Density:Axial Skeleton</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0288</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720293 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720293">
+        <rdfs:label xml:lang="en">Level VI Anterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0293</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720299 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720299">
+        <rdfs:label xml:lang="en">Hyperthermia and Radiation Treatment Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0299</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720300 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720300">
+        <rdfs:label xml:lang="en">Level I Radiation Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0300</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720301 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720301">
+        <rdfs:label xml:lang="en">Level II Radiation Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0301</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720303 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720303">
+        <rdfs:label xml:lang="en">Treatment Device Construction</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0303</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720304 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720304">
+        <rdfs:label xml:lang="en">Level I Therapeutic Radiation Treatment Preparation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0304</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720305 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720305">
+        <rdfs:label xml:lang="en">Level II Therapeutic Radiation Treatment Preparation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0305</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720308 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720308">
+        <rdfs:label xml:lang="en">Positron Emission Tomography (PET) imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0308</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720310 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720310">
+        <rdfs:label xml:lang="en">Level III Therapeutic Radiation Treatment Preparation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0310</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720312 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720312">
+        <rdfs:label xml:lang="en">Radioelement Applications</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0312</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720313 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720313">
+        <rdfs:label xml:lang="en">Brachytherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0313</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720315 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720315">
+        <rdfs:label xml:lang="en">Level II Implantation of Neurostimulator Generator</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0315</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720317 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720317">
+        <rdfs:label xml:lang="en">Level II Miscellaneous Radiology Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0317</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720318 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720318">
+        <rdfs:label xml:lang="en">Implantation of Neurostimulator Pulse Generator and Electrode</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0318</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720319 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720319">
+        <rdfs:label xml:lang="en">Level III Endovascular Revascularization of the Lower Extremity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0319</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720320 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720320">
+        <rdfs:label xml:lang="en">Electroconvulsive Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0320</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720322 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720322">
+        <rdfs:label xml:lang="en">Brief Individual Psychotherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0322</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720323 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720323">
+        <rdfs:label xml:lang="en">Extended Individual Psychotherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0323</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720324 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720324">
+        <rdfs:label xml:lang="en">Family Psychotherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0324</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720325 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720325">
+        <rdfs:label xml:lang="en">Group Psychotherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0325</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720330 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720330">
+        <rdfs:label xml:lang="en">Dental Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0330</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720331 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720331">
+        <rdfs:label xml:lang="en">Combined Abdomen and Pelvis CT without Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0331</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720332 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720332">
+        <rdfs:label xml:lang="en">Computed Tomography without Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0332</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720333 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720333">
+        <rdfs:label xml:lang="en">Computed Tomography without Contrast followed by Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0333</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720334 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720334">
+        <rdfs:label xml:lang="en">Combined Abdomen and Pelvis CT with Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0334</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720336 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720336">
+        <rdfs:label xml:lang="en">Magnetic Resonance Imaging and Magnetic Resonance Angiography without Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0336</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720337 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720337">
+        <rdfs:label xml:lang="en">Magnetic Resonance Imaging and Magnetic Resonance Angiography without Contrast </rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0337</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720340 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720340">
+        <rdfs:label xml:lang="en">Minor Ancillary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0340</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720341 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720341">
+        <rdfs:label xml:lang="en">Skin Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0341</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720342 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720342">
+        <rdfs:label xml:lang="en">Level I Pathology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0342</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720343 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720343">
+        <rdfs:label xml:lang="en">Level III Pathology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0343</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720344 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720344">
+        <rdfs:label xml:lang="en">Level IV Pathology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0344</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720345 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720345">
+        <rdfs:label xml:lang="en">Level I Transfusion Laboratory Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0345</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720346 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720346">
+        <rdfs:label xml:lang="en">Level II Transfusion Laboratory Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0346</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720347 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720347">
+        <rdfs:label xml:lang="en">Level III Transfusion Laboratory Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0347</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720360 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720360">
+        <rdfs:label xml:lang="en">Level I Alimentary Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0360</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720361 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720361">
+        <rdfs:label xml:lang="en">Level II Alimentary Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0361</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720363 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720363">
+        <rdfs:label xml:lang="en">Level I Otorhinolaryngologic Function Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0363</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720364 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720364">
+        <rdfs:label xml:lang="en">Level I Audiometry</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0364</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720365 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720365">
+        <rdfs:label xml:lang="en">Level II Audiometry</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0365</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720366 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720366">
+        <rdfs:label xml:lang="en">Level III Audiometry</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0366</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720367 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720367">
+        <rdfs:label xml:lang="en">Level I Pulmonary Test</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0367</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720368 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720368">
+        <rdfs:label xml:lang="en">Level II Pulmonary Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0368</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720369 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720369">
+        <rdfs:label xml:lang="en">Level III Pulmonary Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0369</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720370 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720370">
+        <rdfs:label xml:lang="en">Multiple Allergy Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0370</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720373 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720373">
+        <rdfs:label xml:lang="en">Level I Neuropsychological Testing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0373</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720375 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720375">
+        <rdfs:label xml:lang="en">Ancillary Outpatient Services When Patient Expires</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0375</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720377 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720377">
+        <rdfs:label xml:lang="en">Level II Cardiac Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0377</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720378 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720378">
+        <rdfs:label xml:lang="en">Level II Pulmonary Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0378</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720381 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720381">
+        <rdfs:label xml:lang="en">Single Allergy Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0381</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720382 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720382">
+        <rdfs:label xml:lang="en">Level II Neuropsychological Testing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0382</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720383 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720383">
+        <rdfs:label xml:lang="en">Cardiac Computed Tomographic Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0383</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720384 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720384">
+        <rdfs:label xml:lang="en">GI Procedures with Stents</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0384</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720385 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720385">
+        <rdfs:label xml:lang="en">Level I Prosthetic Urological Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0385</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720386 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720386">
+        <rdfs:label xml:lang="en">Level II Prosthetic Urological Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0386</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720387 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720387">
+        <rdfs:label xml:lang="en">Level II Hysteroscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0387</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720388 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720388">
+        <rdfs:label xml:lang="en">Discography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0388</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720389 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720389">
+        <rdfs:label xml:lang="en">Level I Non-imaging Nuclear Medicine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0389</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720390 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720390">
+        <rdfs:label xml:lang="en">Level I Endocrine Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0390</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720391 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720391">
+        <rdfs:label xml:lang="en">Level II Endocrine Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0391</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720392 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720392">
+        <rdfs:label xml:lang="en">Level II Non-imaging Nuclear Medicine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0392</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720393 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720393">
+        <rdfs:label xml:lang="en">Hematologic Processing &amp; Studies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0393</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720394 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720394">
+        <rdfs:label xml:lang="en">Hepatobiliary Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0394</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720395 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720395">
+        <rdfs:label xml:lang="en">GI Tract Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0395</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720396 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720396">
+        <rdfs:label xml:lang="en">Bone Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0396</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720397 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720397">
+        <rdfs:label xml:lang="en">Vascular Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0397</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720398 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720398">
+        <rdfs:label xml:lang="en">Level I Cardiac Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0398</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720400 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720400">
+        <rdfs:label xml:lang="en">Hematopoietic Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0400</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720401 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720401">
+        <rdfs:label xml:lang="en">Level I Pulmonary Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0401</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720402 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720402">
+        <rdfs:label xml:lang="en">Level II Nervous System Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0402</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720403 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720403">
+        <rdfs:label xml:lang="en">Level I Nervous System Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0403</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720404 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720404">
+        <rdfs:label xml:lang="en">Renal and Genitourinary Studies</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0404</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720406 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720406">
+        <rdfs:label xml:lang="en">Level I Tumor/Infection Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0406</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720407 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720407">
+        <rdfs:label xml:lang="en">Level I Radionuclide Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0407</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720408 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720408">
+        <rdfs:label xml:lang="en">Level III Tumor/Infection Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0408</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720409 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720409">
+        <rdfs:label xml:lang="en">Red Blood Cell Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0409</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720412 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720412">
+        <rdfs:label xml:lang="en">Level III Radiation Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0412</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720413 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720413">
+        <rdfs:label xml:lang="en">Level II Radionuclide Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0413</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720414 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720414">
+        <rdfs:label xml:lang="en">Level II Tumor/Infection Imaging</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0414</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720415 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720415">
+        <rdfs:label xml:lang="en">Level II Endoscopy Lower Airway</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0415</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720419 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720419">
+        <rdfs:label xml:lang="en">Level II Upper GI Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0419</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720422 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720422">
+        <rdfs:label xml:lang="en">Level III Upper GI Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0422</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720423 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720423">
+        <rdfs:label xml:lang="en">Level II Percutaneous Abdominal and Biliary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0423</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720424 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720424">
+        <rdfs:label xml:lang="en">Level II Small Intestine Endoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0424</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720425 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720425">
+        <rdfs:label xml:lang="en">Level II Arthroplasty or Implantation with Prosthesis</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0425</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720426 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720426">
+        <rdfs:label xml:lang="en">Level II Strapping and Cast Application</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0426</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720427 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720427">
+        <rdfs:label xml:lang="en">Level II Tube or Catheter Changes or Repositioning</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0427</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720428 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720428">
+        <rdfs:label xml:lang="en">Level III Sigmoidoscopy and Anoscopy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0428</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720429 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720429">
+        <rdfs:label xml:lang="en">Level V Cystourethroscopy and other Genitourinary Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0429</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720432 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720432">
+        <rdfs:label xml:lang="en">Level II Health and Behavior Services</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0432</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720433 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720433">
+        <rdfs:label xml:lang="en">Level II Pathology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0433</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720434 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720434">
+        <rdfs:label xml:lang="en">Cardiac Defect Repair</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0434</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720436 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720436">
+        <rdfs:label xml:lang="en">Level I Drug Administration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0436</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720437 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720437">
+        <rdfs:label xml:lang="en">Level II Drug Administration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0437</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720438 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720438">
+        <rdfs:label xml:lang="en">Level III Drug Administration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0438</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720439 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720439">
+        <rdfs:label xml:lang="en">Level IV Drug Administration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0439</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720440 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720440">
+        <rdfs:label xml:lang="en">Level V Drug Administration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0440</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720442 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720442">
+        <rdfs:label xml:lang="en">Dosimetric Drug Administration</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0442</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720604 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720604">
+        <rdfs:label xml:lang="en">Level 1 Hospital Clinic Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0604</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720605 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720605">
+        <rdfs:label xml:lang="en">Level 2 Hospital Clinic Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0605</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720606 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720606">
+        <rdfs:label xml:lang="en">Level 3 Hospital Clinic Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0606</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720607 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720607">
+        <rdfs:label xml:lang="en">Level 4 Hospital Clinic Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0607</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720608 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720608">
+        <rdfs:label xml:lang="en">Level 5 Hospital Clinic Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0608</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720609 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720609">
+        <rdfs:label xml:lang="en">Level 1 Type A Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0609</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720613 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720613">
+        <rdfs:label xml:lang="en">Level 2 Type A Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0613</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720614 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720614">
+        <rdfs:label xml:lang="en">Level 3 Type A Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0614</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720615 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720615">
+        <rdfs:label xml:lang="en">Level 4 Type A Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0615</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720616 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720616">
+        <rdfs:label xml:lang="en">Level 5 Type A Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0616</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720617 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720617">
+        <rdfs:label xml:lang="en">Critical Care</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0617</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720618 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720618">
+        <rdfs:label xml:lang="en">Trauma Response with Critical Care</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0618</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720621 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720621">
+        <rdfs:label xml:lang="en">Level I Vascular Access Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0621</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720622 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720622">
+        <rdfs:label xml:lang="en">Level II Vascular Access Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0622</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720623 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720623">
+        <rdfs:label xml:lang="en">Level III Vascular Access Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0623</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720624 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720624">
+        <rdfs:label xml:lang="en">Phlebotomy and Minor Vascular Access Device Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0624</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720626 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720626">
+        <rdfs:label xml:lang="en">Level 1 Type B Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0626</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720627 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720627">
+        <rdfs:label xml:lang="en">Level 2 Type B Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0627</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720628 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720628">
+        <rdfs:label xml:lang="en">Level 3 Type B Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0628</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720629 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720629">
+        <rdfs:label xml:lang="en">Level 4 Type B Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0629</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720630 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720630">
+        <rdfs:label xml:lang="en">Level 5 Type B Emergency Visits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0630</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720648 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720648">
+        <rdfs:label xml:lang="en">Level IV Breast Surgery</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0648</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720651 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720651">
+        <rdfs:label xml:lang="en">Complex Interstitial Radiation Source Application</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0651</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720652 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720652">
+        <rdfs:label xml:lang="en">Insertion of Intraperitoneal and Pleural Catheters</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0652</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720653 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720653">
+        <rdfs:label xml:lang="en">Vascular Reconstruction/Fistula Repair with Device</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0653</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720654 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720654">
+        <rdfs:label xml:lang="en">Level II Insertion/Replacement of Permanent Pacemaker</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0654</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720655 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720655">
+        <rdfs:label xml:lang="en">Insertion/Replacement/Conversion of a Permanent Dual Chamber Pacemaker or Pacing</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0655</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720656 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720656">
+        <rdfs:label xml:lang="en">Transcatheter Placement of Intracoronary Drug-Eluting Stents</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0656</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720659 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720659">
+        <rdfs:label xml:lang="en">Hyperbaric Oxygen</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0659</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720660 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720660">
+        <rdfs:label xml:lang="en">Level II Otorhinolaryngologic Function Tests</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0660</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720661 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720661">
+        <rdfs:label xml:lang="en">Level V Pathology</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0661</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720662 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720662">
+        <rdfs:label xml:lang="en">CT Angiography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0662</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720664 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720664">
+        <rdfs:label xml:lang="en">Level I Proton Beam Radiation Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0664</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720665 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720665">
+        <rdfs:label xml:lang="en">Bone Density:AppendicularSkeleton</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0665</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720667 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720667">
+        <rdfs:label xml:lang="en">Level II Proton Beam Radiation Therapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0667</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720668 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720668">
+        <rdfs:label xml:lang="en">Level I Angiography and Venography</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0668</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720672 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720672">
+        <rdfs:label xml:lang="en">Level III Posterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0672</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720673 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720673">
+        <rdfs:label xml:lang="en">Level V Anterior Segment Eye Procedures</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0673</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720674 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720674">
+        <rdfs:label xml:lang="en">Prostate Cryoablation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0674</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720676 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720676">
+        <rdfs:label xml:lang="en">Thrombolysis and Other Device Revisions</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0676</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720678 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720678">
+        <rdfs:label xml:lang="en">External Counterpulsation</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0678</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720679 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720679">
+        <rdfs:label xml:lang="en">Level II Resuscitation and Cardioversion</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0679</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720680 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720680">
+        <rdfs:label xml:lang="en">Insertion of Patient Activated Event Recorders</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0680</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720683 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720683">
+        <rdfs:label xml:lang="en">Level II Photochemotherapy</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0683</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720685 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720685">
+        <rdfs:label xml:lang="en">Level III Needle Biopsy/Aspiration Except Bone Marrow</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0685</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720687 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720687">
+        <rdfs:label xml:lang="en">Revision/Removal of Neurostimulator Electrodes</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0687</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720688 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720688">
+        <rdfs:label xml:lang="en">Revision/Removal of Neurostimulator Pulse Generator Receiver</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0688</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720690 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720690">
+        <rdfs:label xml:lang="en">Level I Electronic Analysis of Devices</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0690</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720691 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720691">
+        <rdfs:label xml:lang="en">Level III Electronic Analysis of Devices</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0691</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720692 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720692">
+        <rdfs:label xml:lang="en">Level II Electronic Analysis of Devices</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0692</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720694 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720694">
+        <rdfs:label xml:lang="en">Mohs Surgery</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0694</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720697 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720697">
+        <rdfs:label xml:lang="en">Level I Echocardiogram Without Contrast</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0697</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720698 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720698">
+        <rdfs:label xml:lang="en">Level II Eye Tests &amp; Treatments</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0698</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2720699 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2720699">
+        <rdfs:label xml:lang="en">Level IV Eye Tests &amp; Treatments</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">0699</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728000 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728000">
+        <rdfs:label xml:lang="en">Cardiac Electrophysiologic Evaluation and Ablation Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8000</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728001 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728001">
+        <rdfs:label xml:lang="en">LDR Prostate Brachytherapy Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8001</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728002 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728002">
+        <rdfs:label xml:lang="en">Level I Extended Assessment &amp; Management Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8002</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728003 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728003">
+        <rdfs:label xml:lang="en">Level II Extended Assessment &amp; Management Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8003</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728004 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728004">
+        <rdfs:label xml:lang="en">Ultrasound Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8004</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728005 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728005">
+        <rdfs:label xml:lang="en">CT and CTA without Contrast Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8005</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728006 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728006">
+        <rdfs:label xml:lang="en">CT and CTA with Contrast Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8006</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728007 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728007">
+        <rdfs:label xml:lang="en">MRI and MRA without Contrast Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8007</obo:MEBDO_0000034>
+    </owl:Class>
+
+
+    <!-- http://purl.obolibrary.org/obo/MEBDO_2728008 -->
+
+    <owl:Class rdf:about="&obo;MEBDO_2728008">
+        <rdfs:label xml:lang="en">MRI and MRA with Contrast Composite</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&obo;MEBDO_0000030"/>
+        <obo:MEBDO_0000034 xml:lang="en">8008</obo:MEBDO_0000034>
+    </owl:Class>
+
+
